@@ -28,7 +28,7 @@ learning and strengthening C programming fundamentals.
 
 | Level | Topic | Problems | Status |
 |---|---|---:|---|
-| 1 | C Basics | 1–10 | Completed |
+| 1 | C Basics | 1–10 | ✅ Completed |
 | 2 | Loops & Patterns | 11–15 | 🔒 Not Started |
 | 3 | Functions | 16–20 | 🔒 Not Started |
 | 4 | Arrays | 21–28 | 🔒 Not Started |
