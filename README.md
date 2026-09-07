@@ -32,7 +32,7 @@ learning and strengthening C programming fundamentals.
 | 2 | Loops & Patterns | 11–15 | ✅ Completed |
 | 3 | Functions | 16–20 | ✅ Completed |
 | 4 | Arrays | 21–28 | ✅ Completed |
-| 5 | Strings | 29–35 | 🔒 Not Started |
+| 5 | Strings | 29–35 | ✅ Completed |
 | 6 | Pointers | 36–40 | 🔒 Not Started |
 | 7 | Structures & Unions | 41–43 | 🔒 Not Started |
 | 8 | Dynamic Memory | 44–46 | 🔒 Not Started |
