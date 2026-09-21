@@ -8,6 +8,7 @@ int main(void)
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
+    //ptr = malloc(number_of_bytes);
     int *arr = malloc(n * sizeof(int));
 
     if (arr == NULL)
