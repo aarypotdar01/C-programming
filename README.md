@@ -33,9 +33,9 @@ learning and strengthening C programming fundamentals.
 | 3 | Functions | 16–20 | ✅ Completed |
 | 4 | Arrays | 21–28 | ✅ Completed |
 | 5 | Strings | 29–35 | ✅ Completed |
-| 6 | Pointers | 36–40 | 🔒 Not Started |
-| 7 | Structures & Unions | 41–43 | 🔒 Not Started |
-| 8 | Dynamic Memory | 44–46 | 🔒 Not Started |
+| 6 | Pointers | 36–40 | ✅ Completed |
+| 7 | Structures & Unions | 41–43 | ✅ Completed |
+| 8 | Dynamic Memory | 44–46 | ✅ Completed |
 | 9 | File Handling | 47–48 | 🔒 Not Started |
 | 10 | Interview-Level C | 49–50 | 🔒 Not Started |
 
