@@ -36,8 +36,8 @@ learning and strengthening C programming fundamentals.
 | 6 | Pointers | 36–40 | ✅ Completed |
 | 7 | Structures & Unions | 41–43 | ✅ Completed |
 | 8 | Dynamic Memory | 44–46 | ✅ Completed |
-| 9 | File Handling | 47–48 | 🔒 Not Started |
-| 10 | Interview-Level C | 49–50 | 🔒 Not Started |
+| 9 | File Handling | 47–48 | ✅ Completed |
+| 10 | Interview-Level C | 49–50 | ✅ Completed |
 
 ## Note
 
